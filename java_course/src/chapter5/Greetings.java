@@ -18,6 +18,6 @@ public class Greetings {
     }
 
     public static void greetUser(String name){
-        System.out.println("Hi there, " + name + "!");
+        System.out.println("Hi there, " + name + "!!");
     }
 }
